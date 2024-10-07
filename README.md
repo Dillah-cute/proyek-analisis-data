@@ -1,11 +1,11 @@
 # proyek-analisis-data
 
 # Setup Environment
-mkdir Submission
-cd Submission
+mkdir proyek_analisis_data
+cd proyek_analisis_data
 pipenv install
 pipenv shell
-pip install -
+pip install 
 
 # Run Streamlit app
 streamlit run dashboard.py
